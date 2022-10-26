@@ -190,8 +190,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Monban](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 * [OmniAuth](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
-* [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
-* [Sorcery](https://github.com/Sorcery/sorcery) - Magical Authentication for Rails 4, and Rails 5.
+* [Sorcery](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
 * [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
 * OAuth:
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
@@ -476,6 +475,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Standby](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
+* [Strong Migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ## Date and Time Processing
@@ -484,6 +484,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
 * [ByStar](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
+* [date_range_formatter](https://github.com/darkleaf/date_range_formatter) - The simple tool to make work with date ranges in Ruby more enjoyable. 
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [holidays](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
@@ -726,6 +727,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## GUI
 
+* [FXRuby](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 * [Glimmer](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 * [qtbindings](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
 * [Ruby-GNOME](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
@@ -1279,6 +1281,7 @@ Online tools, services and APIs to simplify development.
 
 ## Third-party APIs
 
+* [Ably](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 * [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
@@ -1305,6 +1308,7 @@ Online tools, services and APIs to simplify development.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
+* [whatsapp-sdk](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
 
